@@ -1,0 +1,17 @@
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\bin\Debug\Akordy_WPF.exe.config
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\bin\Debug\Akordy_WPF.exe
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\bin\Debug\Akordy_WPF.pdb
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy WPF.csprojAssemblyReference.cache
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\MainWindow.g.cs
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\App.g.cs
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy_WPF_MarkupCompile.cache
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy_WPF_MarkupCompile.lref
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\MainWindow.baml
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy_WPF.g.resources
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy_WPF.Properties.Resources.resources
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy WPF.csproj.GenerateResource.cache
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy WPF.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy_WPF.exe
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Akordy_WPF.pdb
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Settings.g.cs
+C:\Users\admin\RiderProjects\Akordy WPF\Akordy WPF\obj\Debug\Settings.baml

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Akordy.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        mc:Ignorable="d"
+        Title="Settings" Height="450" Width="800"
+        Closing="EnableMainWindow">
+    <Grid>
+        <StackPanel>
+            <RadioButton x:Name="UseTimer" IsChecked="True" Margin="10,5,0,0" 
+                         GroupName="group">Chords change automatically
+            </RadioButton>  
+            <RadioButton x:Name="UseNext" Margin="10,5,0,0"
+                         GroupName="group"> Chords change after button click</RadioButton>  
+                    
+            <DockPanel>
+                <Label Content="Set interval: " HorizontalAlignment="Left" Margin="5"></Label>
+                <Slider x:Name="TimerSlider" Maximum="10" TickPlacement="BottomRight" TickFrequency="1" 
+                        IsSnapToTickEnabled="True" ValueChanged="SetInterval" Width="250" 
+                        HorizontalAlignment="Left" Margin="10"/>
+                <Label x:Name="SliderValue" Width="50" Content="1s" HorizontalAlignment="Left"></Label>
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>
